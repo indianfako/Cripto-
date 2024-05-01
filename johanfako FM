@@ -1,0 +1,24 @@
+// Príklad vylepšenia pre aplikáciu Transistor
+
+// Pridanie funkcie na objavovanie rádiových staníc
+fun discoverStations() {
+    // Táto funkcia by mohla vyhľadávať rádiové stanice na základe žánru, krajiny alebo iných kritérií
+}
+
+// Vylepšenie vyhľadávania s možnosťou filtrovania podľa bitrate
+fun searchStationsWithBitrateFilter(bitrate: Int) {
+    // Filtrovanie vyhľadávaných staníc podľa bitrate
+}
+
+// Upravenie užívateľského rozhrania pre lepšiu správu rádiových staníc
+fun editStationUI(station: RadioStation) {
+    // Pridanie možnosti úpravy názvu, obrázku a streamovacieho odkazu pri dlhom stlačení položky v zozname
+}
+
+// Oprava chýb súvisiacich s kódovaním metadát
+fun handleEncodedMetadata(metadata: String) {
+    // Správne dekódovanie HTML kódovaných metadát
+}
+
+// Licencia
+// Tento kód je licencovaný na meno Johan Fako podľa MIT licencie.
